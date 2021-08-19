@@ -4,4 +4,11 @@ body {
 
 button {
   margin-top: 15px;
+  background-color:darkred;
+  color: white;
+  font-weight: bold;
+}
+
+h1 {
+  text-align: center;
 }
