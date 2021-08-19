@@ -39,20 +39,20 @@ _Paige Tiedeman **paigetiedeman@gmail.com**_
 
 ## Tests
 
-Describe: convertToRoman()
+Describe: convertToRoman()  
 
-Test: "It will convert one number to I"
-Code: convertToRoman(1)
-Expected Output: I
+Test: "It will convert one number to I"  
+Code: convertToRoman(1)  
+Expected Output: I  
 
-Test: "It will convert 4 to IV"
-Code: convertToRoman(4)
-Expected Output:IV
+Test: "It will convert 4 to IV"  
+Code: convertToRoman(4)  
+Expected Output:IV  
 
-Test: "It will separate out ones, tens, hundreds, and thousands"
-Code: convertToRoman(100)
-Expected Output: C
+Test: "It will separate out ones, tens, hundreds, and thousands"  
+Code: convertToRoman(100)  
+Expected Output: C  
 
-Test: "It will return a Roman Numeral if user inputs any number less than 4000"
-Code: convertToRoman(3,999)
-Expected Output: MMMCMXCIX
+Test: "It will return a Roman Numeral if user inputs any number less than 4000"  
+Code: convertToRoman(3,999)  
+Expected Output: MMMCMXCIX  
