@@ -37,7 +37,8 @@ Copyright (c) 2021 Paige Tiedeman
 
 _Paige Tiedeman **paigetiedeman@gmail.com**_
 
-## Tests
+<details>
+<summary><h3>Tests<h3></summary>
 
 Describe: convertToRoman()  
 
@@ -56,3 +57,4 @@ Expected Output: C
 Test: "It will return a Roman Numeral if user inputs any number less than 4000"  
 Code: convertToRoman(3,999)  
 Expected Output: MMMCMXCIX  
+</details>
