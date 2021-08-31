@@ -12,11 +12,3 @@ button {
 h1 {
   text-align: center;
 }
-
-details summary {
-  cursor: pointer;
-}
-
-details summary > * {
-  display: inline;
-}

@@ -38,7 +38,7 @@ Copyright (c) 2021 Paige Tiedeman
 _Paige Tiedeman **paigetiedeman@gmail.com**_
 
 <details>
-<summary><h2>Tests<h2></summary>
+<summary><h2>Tests</h2></summary>
 
 Describe: convertToRoman()  
 
